@@ -180,15 +180,6 @@
   justify-content: center;
   align-items: center;
 }
-.welcome {
-  display: flex;
-  border: 5px solid rebeccapurple;
-  margin-top: 500px;
-  width: 1270px;
-  height: 200px;
-  justify-content: center;
-  align-items: center;
-}
 .services2 {
   display: flex;
   justify-content: center;
@@ -467,9 +458,8 @@
   border: solid 1px beige ;
 }
 .finalblock{
-  display: flex;
   width: 100%;
-  height: 1000px;
+  height: 1500px;
   background-color: ghostwhite;
 }
 .chair{
@@ -550,4 +540,82 @@
   display: flex;
   width: 40px;
   height: 400px;
+}
+.picch2{
+  display: flex;
+  width: 488px;
+  height: 324px;
+  background-image: url(../img/pic2.png);
+}
+.grey{
+    display: flex;
+    width: 100%;
+    height: 2px;
+    background-color: lightgrey;
+}
+.ruler{
+  display: flex;
+  width: 100%;
+  height: 400px;
+  align-items: flex-start;
+}
+.space{
+  display: flex;
+  width: 100%;
+  height: 40px;
+}
+.final2{
+  width: 100%;
+  height: 400px;
+  background-color: lightgray;
+  filter: brightness(1.1);
+}
+.sponsors{
+  display: flex;
+  width: 100%;
+  height: 150px;
+}
+.spempty{
+  display: flex;
+  width: 10%;
+  height: 150px;
+}
+.sp{
+  display: flex;
+  width: 80%;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+}
+.spons{
+  display: flex;
+  width: 18%;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color:rgb(95, 93, 93);
+}
+.finalquote{
+  display: flex;
+  width: 100%;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+.empq{
+  display: flex;
+  width: 15%;
+  height: 100px;
+}
+.qq{
+  display: flex;
+  width: 70%;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color:rgb(95, 93, 93);
 }
